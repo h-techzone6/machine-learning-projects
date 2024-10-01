@@ -14,7 +14,7 @@ A collection of Real-World Machine Learning Projects Using Python and Flask.
 
 ## Sales Prediction
 
-![App Screenshot](![image](https://github.com/user-attachments/assets/c8bad4c0-7ae3-4413-98ea-eaf939812b4e))
+![App Screenshot](https://github.com/h-techzone6/machine-learning-projects/blob/2344ad34c96af1fc7e840d339017ef6d0a018202/Linear%20Regression%20-%20Sales%20Prediction/Screenshot.PNG)
 
 ## House Price Prediction
 
