@@ -18,8 +18,7 @@ A collection of Real-World Machine Learning Projects Using Python and Flask.
 
 ## House Price Prediction
 
-![App Screenshot]((https://github.com/h-techzone6/machine-learning-projects/blob/a7c94ba9a2cfef1652e3fe3835b5e5621205dae4/Linear%20Regression%20-%20House%20Price%20Prediction/Screenshot.PNG))
-
+![App Screenshot](https://github.com/h-techzone6/machine-learning-projects/blob/a7c94ba9a2cfef1652e3fe3835b5e5621205dae4/Linear%20Regression%20-%20House%20Price%20Prediction/Screenshot.PNG)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
